@@ -14,7 +14,7 @@ However, material science datasets are characterized by their complexity, involv
 
 ## III. Dataset Description
 
-### SMatscholar NER dataset
+### Matscholar NER dataset
 The Matscholar NER dataset by Weston et al. (2019) is publicly available and contains 7 different entity types. Training, validation and test set consists of 440, 511 and 546 sentences, respectively. Entity types present in this dataset are inorganic material (MAT), symmetry/phase label (SPL), sample descriptor (DSC), material property (PRO), material application (APL), synthesis method (SMT) and characterization method (CMT).
 
 ### Data Splits
