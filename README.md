@@ -24,4 +24,4 @@ The dataset is divided into three subsets:
 3. **Test Set**: Contains only input data without labels.
 
 ### Contact
-E-amil : silky@korea.ac.kr
+Email : silky@korea.ac.kr
