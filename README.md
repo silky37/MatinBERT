@@ -22,3 +22,6 @@ The dataset is divided into three subsets:
 1. **Training Set**: Includes input data with ground truth output labels (e.g., entity tags). This set will be used to train the model.
 2. **Validation Set**: Includes input data with ground truth labels for model verification and tuning during training.
 3. **Test Set**: Contains only input data without labels.
+
+### Contact
+E-amil : silky@korea.ac.kr
